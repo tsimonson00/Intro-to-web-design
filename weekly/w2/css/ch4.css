@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-  background-color: #faf2e4;
+  background-color: #edecc0;
   margin: 0 10%;
   font-family: sans-serif;
 }
@@ -9,7 +9,7 @@ h1 {
   text-transform: uppercase;
   font-family: serif;
   font-weight: normal;
-  border-bottom: 1px solid #57b1dc;
+  border-bottom: 1px solid #03dffc;
   margin-top: 30px;
 }
 
