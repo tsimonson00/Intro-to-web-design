@@ -1,0 +1,30 @@
+@charset "UTF-8"
+body {
+	background-color: #3b3a38;
+}
+#wrapper {
+	background-color: #dedcd7;
+	width:80%;
+}
+header {
+	background-color: #decb9b;
+}
+article {
+	background-color: #b5ebe6;
+}
+footer {
+	background-color: #ff5e5e;
+}
+h1 {
+	text-indent:30px;
+}
+#logo {
+	background-color: #c8a6e3;
+	width: 80%;
+	float: left;
+	
+}
+nav {
+	background-color: #a1d4a1;
+	width: 200px;
+}
