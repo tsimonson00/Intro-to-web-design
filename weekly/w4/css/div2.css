@@ -1,0 +1,58 @@
+@charset "UTF-8"
+#wrapper {
+}
+body {
+	background-color: #4C67B7;
+	font-family: "Myriad Pro","Gill Sans","sans-seriff","Helvetica";
+	color: white;
+}
+header {
+	margin-left: 175px;
+	margin-bottom: 64px;
+	margin-right: 95px;
+}
+section {
+	margin-left: 175px;
+}
+#content {
+	margin-left: 175px;
+	margin-right: 95px;
+	margin-bottom: 37px;
+}
+footer {
+	margin-left: 175px;
+	margin-right: 95px;
+}
+p {
+	margin-left: 80px;
+	margin-bottom: 50px;
+}
+h1 {
+	font-size: 2.5em;
+	font-weight: bold;
+	margin-bottom: 28px;
+	margin-top: 20px;
+}
+h2 {
+	font-size: 1.7em;
+	margin-bottom: 37px;
+}
+h3 {
+	font-size:1.5em;
+	font-weight:normal;
+}
+h4 {
+	font-weight:normal;
+	font-size: 0.8em;
+}
+p {
+	font-size:1.1em;
+}
+small {
+	font-size:0.7em;
+	display: block;
+	margin-top: 66px; 
+}
+footer {
+	font-size: 0.7em;
+}
