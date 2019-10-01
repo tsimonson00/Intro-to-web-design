@@ -44,9 +44,9 @@ table {
 }
 #wrapper {
 	width:960px;
-	margin-left:40px;
 	font-family:Arial;
-	margin-top:50px;
+	overflow:hidden;
+	margin: 50px auto;
 }
 header {
 	margin-left:10px;
@@ -95,4 +95,8 @@ footer {
 	width: 950px;
 	clear:both;
 	font-size:12px;
+}
+body {
+	line-height:1;
+	background-image:url("img/dot-grid.png");
 }
