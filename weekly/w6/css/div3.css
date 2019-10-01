@@ -47,6 +47,7 @@ table {
 	font-family:Arial;
 	overflow:hidden;
 	margin: 50px auto;
+	background-color:rgba(252,252,252,252);
 }
 header {
 	margin-left:10px;
@@ -98,5 +99,5 @@ footer {
 }
 body {
 	line-height:1;
-	background-image:url("img/dot-grid.png");
+	background-image:url("../img/dot-grid.png");
 }
