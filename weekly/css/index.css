@@ -1,0 +1,23 @@
+a:link {
+	text-decoration: none;
+	color: #A6D5F0;
+	font-family: Helvetica,Arial,Sans Seriff;
+}
+a:visited {
+	color: #CAA6F0;
+}
+a:hover {
+	background-color: #A6F0CE;
+	text-decoration: underline;
+}
+a:active {
+	color: #A6F0CE;
+	background: none;
+}
+dt {
+	font-weight:bold;
+	font-family: Helvetica,Arial,Sans Seriff;
+}
+body {
+	font-family: Helvetica,Arial,Sans Seriff;
+}
